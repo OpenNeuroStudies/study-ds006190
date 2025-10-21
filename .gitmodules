@@ -1,0 +1,12 @@
+[submodule "ds006189"]
+	path = sourcedata/ds006189
+	url = https://github.com/OpenNeuroDatasets/ds006189.git
+[submodule "ds006185"]
+	path = sourcedata/ds006185
+	url = https://github.com/OpenNeuroDatasets/ds006185.git
+[submodule "ds006131"]
+	path = sourcedata/ds006131
+	url = https://github.com/OpenNeuroDatasets/ds006131.git
+[submodule "ds006190"]
+	path = derivatives/tedana-24.0.2
+	url = https://github.com/OpenNeuroDatasets/ds006190.git
